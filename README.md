@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Welcome to Dangis Gudelis's GitHub Profile!
 
 ## 👋 About Me
