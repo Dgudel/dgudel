@@ -16,7 +16,7 @@ I'm Dangis Gudelis, a Data Scientist and a Professor of public administration wi
 
 ## 🛠 Skills
 - Programming Languages: Python, SQL, R
-- Tools: Docker, Torch
+- Tools: Sklearn, Docker, Torch, Kubernetes, etc.
 - Expertise in Data Visualization, Machine Learning, Natural Language Processing, Computer Vision, and Analytical Methods
 
 ## 📚 Research and Publications
@@ -30,3 +30,5 @@ Passionate about interdisciplinary research, I've been involved in various proje
 In addition to my academic and professional pursuits, I am deeply interested in artificial intelligence and enjoy working on complex problems and delivering high-quality solutions in data science.
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
+
+P.S. The repository 'python-business-analytics' is not mine but it is cool that's why I forked it.
